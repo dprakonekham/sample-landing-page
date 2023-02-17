@@ -72,6 +72,27 @@ body{
     display: flex;
 }
 
+.quote{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    justify-content: center;
+
+    background-color: #E5E7EB;
+
+
+}
+.quote-text{
+    display: flex;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+    color: #1F2937;
+}
+.quote-author{
+    display: flex;
+}
 img{
     width: 400px;
     height: auto;
