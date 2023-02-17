@@ -43,9 +43,11 @@ body{
     font-size: 18px;
 }
 .header button{
-    background-color: blue;
+    background-color: #3882F6;
     color: white;
     border-radius: 4px;
+    width: 100px;
+    height: 30px;
 }
 
 .header-section2{
