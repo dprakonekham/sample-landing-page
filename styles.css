@@ -16,4 +16,7 @@ body{
 .header ul,a{
     color: white;
     list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    gap: 16px;
 }
