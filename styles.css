@@ -12,7 +12,8 @@ body{
     justify-content: center;
     margin: 0;
 }
-#header-links{
+
+.header ul,a{
     color: white;
     list-style-type: none;
 }
