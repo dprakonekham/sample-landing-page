@@ -47,10 +47,11 @@ body{
     margin-bottom: 100px;
 }
 
-.header-links{
+.header-links ul{
     display: flex;
     justify-content: flex-end;
     margin-bottom: 100px;
+    gap: 16px;
 }
 
 .header a{
