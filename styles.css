@@ -18,7 +18,10 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+    margin-top: 8px;
     margin-bottom: 100px;
+    flex-wrap: nowrap;
+    flex-shrink: 0;
 }
 
 .header-logo{
@@ -40,6 +43,7 @@ body{
 .header-section2{
     display: flex;
     flex-direction: column;
+    margin-top: 8px;
     margin-bottom: 100px;
 }
 
