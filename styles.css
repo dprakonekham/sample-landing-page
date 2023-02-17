@@ -134,6 +134,10 @@ body{
     border: 2px solid 3882F6;
     border-radius: 4px;
 }
+.bannertext{
+    display: flex;
+    flex-direction: column;
+}
 img{
     width: 400px;
     height: auto;
