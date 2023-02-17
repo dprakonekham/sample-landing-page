@@ -137,6 +137,8 @@ body{
 }
 
 .signup-banner button{
+    width: 100px;
+    height: 25px;
     background-color: #3882F6;
     color: white;
     border: 1px solid white;
@@ -145,6 +147,12 @@ body{
 .bannertext{
     display: flex;
     flex-direction: column;
+}
+
+.footer{
+    background-color: #1F2937;
+    height: 50px;
+
 }
 img{
     width: 400px;
