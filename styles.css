@@ -75,13 +75,10 @@ body{
 .quote{
     display: flex;
     flex-direction: column;
-    
     align-items: center;
     justify-content: center;
-
     background-color: #E5E7EB;
-
-
+    height: 300px;
 }
 .quote-text{
     display: flex;
@@ -92,6 +89,7 @@ body{
 }
 .quote-author{
     display: flex;
+    font-weight: bold;
 }
 img{
     width: 400px;
