@@ -27,13 +27,21 @@ body{
 .header-logo{
     display: flex;
     margin-bottom: 100px;
-
+    font-size: 24px;
 }
 .section1-container{
     display: flex;
     flex-direction: column;
 }
 
+.header-title{
+    font-size: 48px;
+    font-weight: extra-bold;
+}
+
+.header-body{
+    font-size: 18px;
+}
 .header button{
     background-color: blue;
     color: white;
